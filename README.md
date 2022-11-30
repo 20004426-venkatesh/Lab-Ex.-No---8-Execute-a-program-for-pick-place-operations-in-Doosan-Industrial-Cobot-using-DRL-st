@@ -45,7 +45,7 @@ Procedure:
 ## output :
 ![image](https://user-images.githubusercontent.com/94883079/204587221-4a92ea73-6d96-4b72-b449-75cc7dd01f1d.png)
 
-### Results: 
+### Result: 
 A program for pick and place operations in Doosan Industrial Cobot using DRL studio has been executed successfully.
 
 
