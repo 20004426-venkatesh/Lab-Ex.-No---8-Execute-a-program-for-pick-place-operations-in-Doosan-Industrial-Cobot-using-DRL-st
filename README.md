@@ -38,7 +38,9 @@ Procedure:
 
 ## Program 
 ![image](https://user-images.githubusercontent.com/94883079/204586775-677aaa75-5a6d-4510-9106-020b8f60253e.png)
+
 ![image](https://user-images.githubusercontent.com/94883079/204586837-bfdd42af-e2c7-4dbd-9787-78848122cde0.png)
+
 ![image](https://user-images.githubusercontent.com/94883079/204586867-1b1275b8-2ea6-4e84-ac18-4651dd2e74a4.png)
 ## output :
 ![image](https://user-images.githubusercontent.com/94883079/204587221-4a92ea73-6d96-4b72-b449-75cc7dd01f1d.png)
